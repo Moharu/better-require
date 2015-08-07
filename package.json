@@ -37,7 +37,7 @@
     "require-json": "",
     "require-yaml": "",
     "require-csv": "",
-    "require-xml": "",
+    "require-xml": "git://github.com/Moharu/require-xml.git",
     "require-ini": "",
     "coffee-script": "",
     "six": "",
